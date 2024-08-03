@@ -1,0 +1,37 @@
+@import url(style/font/font.css);
+body{
+    background-color: #d5e1ef !important ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.p1{
+    font-weight: 700;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 15px;
+    font-family: myfont;
+    margin-inline: 10px;
+}
+.p2{
+    font-family: myfont;
+    font-weight: 400;
+    text-align: center;
+    font-size: 14px;
+    margin-top: 15px;
+    color: rgba(86, 89, 90, 0.747);
+    margin-inline: 20px;
+   
+}
+img{
+    border-radius: 12px;
+}
+.bg-main{
+    background-color:rgb(250, 250, 250) ;
+    border-radius: 12px;
+}
+.cardd{
+    width: 300px;
+    height: 480px;
+}

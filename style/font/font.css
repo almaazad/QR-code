@@ -1,0 +1,10 @@
+@font-face {
+    font-family: myfont;
+    src: url(Outfit-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: myfont;
+    src: url(Outfit-Bold.ttf);
+    font-weight: 700;
+}
